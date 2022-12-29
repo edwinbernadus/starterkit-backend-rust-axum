@@ -13,7 +13,7 @@ snippet list:
 - //web_socket
 
 url list:  
-http://localhost:3000/hello2
+http://localhost:3000/hello2  
 http://localhost:3000  
 
 run code:  
